@@ -18,23 +18,24 @@ Google Generative AI (Gemini API) → Powers intelligent chatbot replies.
 Glassmorphism Design → Modern look with smooth transitions.
 
 📂 Project Structure
+
 chatbot/
-│── backend/            
+│── backend/
 │   ├── main.py
 │   ├── langgraph_flow.py
 │   ├── requirements.txt
 │
-│── frontend/          
+│── frontend/
 │   ├── src/
 │   │   ├── App.jsx
 │   │   ├── ChatBox.jsx
 │   │   ├── styles.css
 │   ├── package.json
 │
-│── streamlit_app/     
+│── streamlit_app/
 │   ├── app.py
 │
-│── README.md           
+│── README.md
 
 ⚡Installations
 
